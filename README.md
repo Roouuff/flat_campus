@@ -1,4 +1,4 @@
-# CampusConnect
+# Ecampus
 
 ecampus adalah prototipe aplikasi sistem informasi akademik berbasis
 Flutter. Aplikasi ini menyediakan satu tempat untuk melihat ringkasan
